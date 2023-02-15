@@ -43,9 +43,9 @@
 		607FACE51AFB9204008FA782 /* FacePhoto_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FacePhoto_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		65ADB3648BA3DDC4F9063B32 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		67993B0384954565396B5F49 /* FacePhoto.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = FacePhoto.podspec; path = ../FacePhoto.podspec; sourceTree = "<group>"; };
-		6AF012D36344D1FAF048845D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		65ADB3648BA3DDC4F9063B32 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		67993B0384954565396B5F49 /* FacePhoto.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FacePhoto.podspec; path = ../FacePhoto.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6AF012D36344D1FAF048845D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6FC68EB01D025B7A1AD3BD3A /* Pods-FacePhoto_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FacePhoto_Tests.debug.xcconfig"; path = "Target Support Files/Pods-FacePhoto_Tests/Pods-FacePhoto_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,7 +77,6 @@
 				6FC68EB01D025B7A1AD3BD3A /* Pods-FacePhoto_Tests.debug.xcconfig */,
 				4DB38838B48CD49324F6FF59 /* Pods-FacePhoto_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -228,6 +227,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

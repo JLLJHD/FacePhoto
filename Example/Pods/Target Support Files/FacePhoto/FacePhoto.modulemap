@@ -1,0 +1,6 @@
+framework module FacePhoto {
+  umbrella header "FacePhoto-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FacePhoto",
+  "version": "0.1.0",
+  "summary": "A short description of FacePhoto.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JLLJHD/FacePhoto",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JLLJHD": "chaojie.zheng@quvideo.com"
+  },
+  "source": {
+    "git": "https://github.com/JLLJHD/FacePhoto.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FacePhoto/Classes/**/*"
+}

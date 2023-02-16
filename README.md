@@ -22,7 +22,7 @@ pod 'FacePhoto'
 
 ## Author
 
-JLLJHD, chaojie.zheng@quvideo.com
+JLLJHD, developerbfl@gmail.com （源码可私）
 
 ## License
 

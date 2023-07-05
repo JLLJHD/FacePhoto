@@ -8,6 +8,18 @@
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+# 筛选相册包含人脸的图片列表展示 （Swift）
+![IMG_2924.PNG](https://upload-images.jianshu.io/upload_images/1951902-5305ade9152bf55f.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![Alt Text](https://upload-images.jianshu.io/upload_images/1951902-c6ee6cf132b5560f.gif?imageMogr2/auto-orient/strip)
+
+```
+基于系统API Vision 实现
+可获取图片的人脸位置以及人脸数量
+实现了结果缓存方便第二次加载速度
+不依赖任何第三方（布局除外 Snapkit）
+```
 
 ## Requirements
 

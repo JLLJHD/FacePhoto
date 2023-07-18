@@ -34,7 +34,7 @@ pod 'FacePhoto'
 
 ## Author
 
-JLLJHD, developerbfl@gmail.com （源码可私）
+JLLJHD, developerbfl@gmail.com （源码可私）V ZCJ930930(备注来意)
 
 ## License
 

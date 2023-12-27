@@ -1,7 +1,7 @@
 {
   "name": "FacePhoto",
   "version": "0.1.0",
-  "summary": "A short description of FacePhoto.",
+  "summary": "FacePhoto.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/JLLJHD/FacePhoto",
   "license": {
@@ -16,7 +16,21 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "13.0"
   },
-  "source_files": "FacePhoto/Classes/**/*"
+  "swift_versions": [
+    "5.5"
+  ],
+  "source_files": "FacePhoto/Classes/**/*",
+  "resource_bundles": {
+    "FacePhoto": [
+      "FacePhoto/Assets/*"
+    ]
+  },
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.5"
 }

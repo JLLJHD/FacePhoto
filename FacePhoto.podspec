@@ -34,11 +34,12 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'FacePhoto/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'FacePhoto' => ['FacePhoto/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'FacePhoto' => ['FacePhoto/Assets/*']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'SnapKit'
+   
 end

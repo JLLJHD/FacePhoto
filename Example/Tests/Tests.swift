@@ -2,7 +2,7 @@
 
 import Quick
 import Nimble
-import FacePhoto
+//import FacePhoto
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {

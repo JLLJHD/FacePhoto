@@ -1,7 +1,9 @@
 PODS:
-  - FacePhoto (0.1.0)
+  - FacePhoto (0.1.0):
+    - SnapKit
   - Nimble (10.0.0)
   - Quick (2.2.1)
+  - SnapKit (5.6.0)
 
 DEPENDENCIES:
   - FacePhoto (from `../`)
@@ -12,16 +14,18 @@ SPEC REPOS:
   trunk:
     - Nimble
     - Quick
+    - SnapKit
 
 EXTERNAL SOURCES:
   FacePhoto:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FacePhoto: b0ff746c12d7f81f1ee35678a6354ad1635cd6a9
+  FacePhoto: 102aa9b0ee8633d166a604a8b3809df1206220e5
   Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
   Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
 
-PODFILE CHECKSUM: f4bf2ecec85f28af7c9e93061ad6f8a3d5ba3cc3
+PODFILE CHECKSUM: 00c158e991eeeaba69fe298239e9cac5f155d004
 
 COCOAPODS: 1.11.3
